@@ -1,0 +1,2 @@
+# Madrecon currently uses only Python standard library.
+# No external Python packages required.
